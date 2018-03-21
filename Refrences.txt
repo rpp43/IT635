@@ -1,0 +1,11 @@
+1) Bootstrap by @mdo @fat
+		sign-in.html
+		cover.html
+		CSS/JS
+		https://getbootstrap.com/docs/4.0/examples/
+		
+2)W3Schools by by Refsnes Data
+	-https://www.w3schools.com/sql/
+	-https://www.w3schools.com/php/
+	
+	
